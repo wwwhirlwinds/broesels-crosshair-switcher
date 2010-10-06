@@ -1,1 +1,7 @@
-updates
+==06/10/2010 - Version 2.2==
+
+added the Polyount weapons to the tf_weapon_xx aliases
+
+==16/08/2010 - Version 2.1==
+
+The script now uses tf_weapon_xx AND the slot command. Thus previously experienced glitches (when switching weapons while taunting e.g.) won’t appear anymore, BUT the script needs to be updated when new weapons are added to the game. Otherwise it will function just fine, the glitches will then just appear with new weapons ;)
