@@ -1,15 +1,11 @@
 #labels Featured
 ==06/11/2011 - Version 2.3==
 
-- updated the “use tf_weapon_xx” aliases
-
-- unified the class files:
+	- updated the “use tf_weapon_xx” aliases
 
 	- changed the command to disable the crosshairswitcher
 
 	- moved the specification of crosshairs for classes that the switcher is disabled for to settings.cfg (it will simply use the primary crosshair)
-
-- massively cleaned up everything:
 
 	- added shorten.cfg (explanation as to why is in the file itself)
 
@@ -17,7 +13,7 @@
 
 	- replaced all indents with spaces so it doesn’t look off in some editors
 
-- updated the Readme file
+	- updated the Readme file
 
 ==06/10/2010 - Version 2.2==
 
