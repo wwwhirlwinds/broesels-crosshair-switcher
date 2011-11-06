@@ -1,7 +1,7 @@
 =Updates=
 
-||==06/11/2011 - Version 2.3==||
-||
+==06/11/2011 - Version 2.3==
+
 - updated the “use tf_weapon_xx” aliases
 
 - unified the class files:
@@ -18,7 +18,7 @@
 
 	- replaced all indents with spaces so it doesn’t look off in some editors
 
-- updated the Readme file||
+- updated the Readme file
 
 ==06/10/2010 - Version 2.2==
 
