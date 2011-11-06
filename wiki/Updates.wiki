@@ -1,8 +1,28 @@
 =Updates=
 
+==06/11/2011 - Version 2.3==
+
+- updated the “use tf_weapon_xx” aliases
+
+- unified the class files:
+
+	- changed the command to disable the crosshairswitcher
+
+	- moved the specification of crosshairs for classes that the switcher is disabled for to settings.cfg (it will simply use the primary crosshair)
+
+- massively cleaned up everything:
+
+	- added shorten.cfg (explanation as to why is in the file itself)
+
+	- added weapons.cfg to store the “use tf_weapons_xx” aliases
+
+	- replaced all indents with spaces so it doesn’t look off in some editors
+
+- updated the Readme file
+
 ==06/10/2010 - Version 2.2==
 
-added the Polyount weapons to the tf_weapon_xx aliases
+- added the Polyount weapons to the tf_weapon_xx aliases
 
 ==16/08/2010 - Version 2.1==
 
