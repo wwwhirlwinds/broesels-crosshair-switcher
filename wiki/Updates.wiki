@@ -17,7 +17,7 @@
 
 ==06/10/2010 - Version 2.2==
 
-	- added the Polyount weapons to the " use tf_weapon_xx" aliases
+	- added the Polyount weapons to the "use tf_weapon_xx" aliases
 
 ==16/08/2010 - Version 2.1==
 
