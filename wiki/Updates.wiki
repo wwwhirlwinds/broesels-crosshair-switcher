@@ -1,7 +1,7 @@
 #labels Featured
 ==06/11/2011 - Version 2.3==
 
-	- updated the “use tf_weapon_xx” aliases
+	- updated the "use tf_weapon_xx" aliases
 
 	- changed the command to disable the crosshairswitcher
 
