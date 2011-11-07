@@ -21,4 +21,4 @@
 
 ==16/08/2010 - Version 2.1==
 
-	- the script now uses "use tf_weapon_xx" in addition to the slot command. Thus previously experienced glitches (when switching weapons while taunting e.g.) won’t appear anymore, BUT the script needs to be updated when new weapons are added to the game. Otherwise it will function just fine, the glitches will then just appear with new weapons ;)
+	- the script now uses "use tf_weapon_xx" in addition to the slot command. This fixes some glitches and adds the possibility to switch weapons while looking at the scoreboard, but the script now needs to be updated when new weapons are added to the game. Though apart from not being able to switch to new weapons while looking at the scoreboard everything will function just fine.
