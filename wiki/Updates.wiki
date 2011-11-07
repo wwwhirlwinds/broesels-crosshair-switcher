@@ -9,7 +9,7 @@
 
 	- added shorten.cfg (explanation as to why is in the file itself)
 
-	- added weapons.cfg to store the “use tf_weapons_xx” aliases
+	- added weapons.cfg to store the “use tf_weapon_xx” aliases
 
 	- replaced all indents with spaces so it doesn’t look off in some editors
 
