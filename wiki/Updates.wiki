@@ -21,4 +21,4 @@
 
 ==16/08/2010 - Version 2.1==
 
-	- the script now uses "use tf_weapon_xx" in addition to the slot command. This fixes some glitches and adds the possibility to switch weapons while looking at the scoreboard, but the script now needs to be updated when new weapons are added to the game. Apart from not being able to switch to new weapons while looking at the scoreboard everything will function just fine.
+	- the script now uses "use tf_weapon_xx" in addition to the slot command. This fixes some glitches and adds the possibility of switching weapons while looking at the scoreboard, though the script now needs to be updated when new weapons are added to the game.
