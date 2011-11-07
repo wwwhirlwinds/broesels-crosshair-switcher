@@ -5,7 +5,7 @@
 
 	- changed the command to disable the crosshairswitcher
 
-	- moved the specification of crosshairs for classes that the switcher is disabled for to settings.cfg (it will simply use the primary crosshair)
+	- moved the specification of crosshairs for classes that the switcher is disabled for to settings.cfg
 
 	- added shorten.cfg (explanation as to why is in the file itself)
 
