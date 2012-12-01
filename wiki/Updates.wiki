@@ -32,3 +32,15 @@
 	- the script now uses "use tf_weapon_xx" in addition to the slot command
 
 	This fixes some glitches and adds the possibility to switch weapons while looking at the scoreboard, though the script now needs to be updated when new weapons are added to the game in order to be able to switch to these weapons while having the scoreboard open.
+
+==04/08/2010 - Version 2.0 ==
+
+	- reworked the crosshair customization
+
+	- added bind customization
+
+	- organized the script files in a seperate folder
+
+==31/07/2010 - Version 1.0 ==
+
+	- public release
