@@ -1,4 +1,12 @@
 #labels Featured
+==01/12/2012 - Version 2.4==
+
+	- updated weapons.cfg
+
+	- fixed the demoplayback and STV configs not working
+
+	- fixed a typo in the settings file
+
 ==06/11/2011 - Version 2.3==
 
 	- updated the "use tf_weapon_xx" aliases
