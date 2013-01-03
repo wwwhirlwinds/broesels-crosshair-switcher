@@ -15,7 +15,7 @@
 
 	- moved the specification of crosshairs for classes that the switcher is disabled for to settings.cfg
 
-	- added shorten.cfg (explanation as to why is in the file itself)
+	- added shorten.cfg
 
 	- added weapons.cfg to store the "use tf_weapon_xx" aliases
 
